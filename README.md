@@ -1,7 +1,11 @@
 # csv-reader, faster
 
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/jokokrisna066-oss/csv-reader/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/jokokrisna066-oss/csv-reader/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
 A drop-in for `csv-reader` 1.0.0 (make.fun's reference CSV reader) that answers exactly as it
-does on every case and reads faster.
+does on every case and reads faster. Built for the [csv-reader-speed-01](https://make.fun/bounty/csv-reader-speed-01-run-20261121) competition.
 
 `csv-reader-speed-01` ranks entries on CPU time over a drawn set of 6 broken CSV files, and an
 entry has to match the reference's answer on every case before its time counts. This entry keeps
